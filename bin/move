@@ -8,4 +8,4 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 input = input_to_index(gets.strip)
 
-move(board, input, "X")
+move(board, input, 'X')
